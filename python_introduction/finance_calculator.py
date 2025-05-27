@@ -1,6 +1,6 @@
 ## User input for Financial Details
-monthly_income = int(input("Enter your monthly income "))
-monthly_expenses = int(input("Enter your total monthly expenses "))
+monthly_income = int(input("Enter your monthly income: "))
+monthly_expenses = int(input("Enter your total monthly expenses: "))
 
 ## Calculations for Monthly savings
 monthly_savings = monthly_income - monthly_expenses
