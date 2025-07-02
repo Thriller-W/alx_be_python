@@ -1,5 +1,3 @@
-# main.py
-
 from library_system import Book, EBook, PrintBook, Library
 
 def main():
